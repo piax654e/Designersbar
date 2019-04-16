@@ -1,0 +1,59 @@
+[{
+        "id": "1",
+        "name": "First One-page website",
+        "description": "This is the first mini-project I did in Frontend class. It is strictly made with HTML & CSS and it´s responsive. I already knew how to do markup but got introduced to SCSS and have used it ever since.",
+        "tools": "HTML / SCSS",
+        "image": "/images/markup.png",
+        "img": "/images/git-hub.png",
+        "link": "https://loving-joliot-0a25aa.netlify.com"
+    },
+    {
+        "id": "2",
+        "name": "Project for the Lion Park, Givskud",
+        "description": "The scope of this semester exam project was to create a web application for the visitors at Givskud Zoo. Also, the staff at Givskud should be able to perform direct content marketing during the visit. I went solo on the interface design and preliminary research. The interface design can be viewed in the prototype, see link below.",
+        "tools": "Ethnographic research / Mental models / Interface Design / Colour Theory / SCSS / ASP.NET / API / C#",
+        "image": "/images/marker.png",
+        "link": "https://goo.gl/Me7YZr"
+    },
+    {
+        "id": "3",
+        "name": "Development environments Umbraco",
+        "description": "Working with various static markup transfer to an Umbraco CMS. Umbraco is my preferred CMS-system",
+        "tools": "MVC / ASP.NET / C# / API / Umbraco",
+        "image": "/images/umb.png",
+        "link": "Demo coming soon!"
+    },
+    {
+        "id": "4",
+        "name": "Vue.js",
+        "description": "This portfolio of mine is made as a SPA with Vue CLI, npm as task runner and bundled with webpack. Most of the data comes from a json-file using Axios. Source-files are found on GitHub from the link below.",
+        "tools": "HTML / CSS Animations / CSS Transitions / SCSS / Vue CLI / npm / axios / Webpack",
+        "image": "/images/vue.png",
+        "link": "https://github.com/piax654e/Designersbar"
+    },
+    {
+        "id": "5",
+        "name": "Databases",
+        "description": "Structure and order - what´s not to like?  Working with databases makes good sense to me. We´ve have covered both SQL and noSQL(MongoDb) in class",
+        "tools": "ER Diagrams / SQL Database / MongoDb",
+        "image": "/images/er.png",
+        "link": "Demo coming soon!"
+    },
+    {
+        "id": "6",
+        "name": "Native, crossplatform apps with Xamarin Forms",
+        "description": "In this semester exam project I´m working on a native app with my fellow group members, the client being SDU physio department. Along with an interface in Umbraco for the physiotherapists, a cross-platform app is made with Xamarin Forms. The users for this are patients with shoulder problems doing exercises and entering data in the app for the physiotherapist to gather. The data is send to a redCAP database through an API. A database for temp storing is made with SQL.",
+        "tools": "Xamarin.forms / C# / API / Xaml / Umbraco / SQL ",
+        "image": "/images/weight.png",
+        "img": "/images/sdu.png",
+        "link": " Awaiting project to be done..."
+    },
+    {
+        "id": "7",
+        "name": "Graphic design and vectors",
+        "description": "I have always had a passion for graphic design. This has resulted in many graphical art posters & logos. And I always make my own vector graphic and svg-animations.",
+        "tools": "ADOBE: Illustrator / Photoshop / InDesign / Animate / After Effects",
+        "image": "/images/candy.png",
+        "link": "https://github.com/piax654e/DesignLibrary"
+    }
+]

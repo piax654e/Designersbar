@@ -1,0 +1,75 @@
+[{
+        "id": "01",
+        "year": "Currently :",
+        "company": "Web development Student at UCL in Odense.",
+        "job": "Interface Design, Development Environment, Webprogramming, Modern Frontend, Mobile Development, Databases"
+    },
+
+    {
+        "id": "02",
+        "year": "2016-18",
+        "company": "Multimediadesign student at EAL(UCL) w/Internship at Farstrup Furniture. Call for reference: Steen Lyhne Johansen, CEO, 28 55 28 06.",
+        "job": "Web-optimization, copywriting, & graphic design",
+        "quote": "'When it comes to working efficiently and responsibly Pia has done a terrific job. Her creativity shines through in several, professionel-looking, marketing material, and our website´s ”stickyness” has improved a lot'"
+    },
+
+    {
+        "id": "03",
+        "year": "2013-16",
+        "company": "Technical designer at Kverneland Group Kerteminde",
+        "job": "2D drafting and BOM-lists for mechanical devices, 3D modelling and assembly, documentation, CAD-supporter.",
+        "quote": "'Pia has managed to stand out from the traditional role as a technical designer, and has done so much more than what can normally be expected'"
+    },
+
+    {
+        "id": "04",
+        "year": "2007-13",
+        "company": "Graphic- & Technical designer at Naviair",
+        "job": "3D modelling for tower simulator, 2D airspace planning maps with documentation",
+        "quote": "'The independent work from Pia has always resulted in products of highest quality'"
+    },
+
+    {
+        "id": "05",
+        "year": "2006-07",
+        "company": "Technical designer at EKJ",
+        "job": "2D drafting and CAD-administration",
+        "quote": "'It has always been a pleasure having Pia onboard the team, since an independent effort could then be expected'"
+    },
+
+    {
+        "id": "06",
+        "year": "2003-06",
+        "company": "Intern & afterwards hired fulltime as Technical designer at Naviair",
+        "job": "2D drafting and marketing support in terms of copywriting and graphic design.",
+        "quote": "'We have had the pleasure of Pia´s creativity and she is very popular as a collegue'"
+
+    },
+    {
+        "id": "07",
+        "year": "1999-2003",
+        "company": "In this period I work with customer service and marketing in three different companies",
+        "job": "Personal expedition of visiting customers and telephone calls, order expeditions, accounting, IT support for end users",
+        "quote": "'Pia has a talent for talking to customers, she is well-spoken, and she is good at etting a start on assignments'"
+    },
+    {
+        "id": "08",
+        "year": "2002",
+        "job": "Primary School for Jewelers",
+        "company": "Guldsmedeskolen, Cph."
+    },
+    {
+        "id": "09",
+        "year": "1996",
+        "job": "Single Course Student education in math/english/spanish",
+        "company": "Frederiksberg Studenterkursus"
+    },
+    {
+        "id": "10",
+        "year": "1993-94",
+        "job": "High School student at Cleveland Heights High in Ohio",
+        "company": "On exchange in the US"
+    }
+
+
+]
