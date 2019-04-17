@@ -31,45 +31,35 @@
 
     {
         "id": "05",
-        "year": "2006-07",
-        "company": "Technical designer at EKJ",
-        "job": "2D drafting and CAD-administration",
-        "quote": "'It has always been a pleasure having Pia onboard the team, since an independent effort could then be expected'"
-    },
-
-    {
-        "id": "06",
-        "year": "2003-06",
-        "company": "Intern & afterwards hired fulltime as Technical designer at Naviair",
-        "job": "2D drafting and marketing support in terms of copywriting and graphic design.",
+        "year": "2003-07",
+        "company": "In this period I study to become a technical designer and end up where I had my internship",
+        "job": "2D drafting, CAD-administration, & marketing support",
         "quote": "'We have had the pleasure of Pia´s creativity and she is very popular as a collegue'"
 
     },
     {
-        "id": "07",
+        "id": "06",
         "year": "1999-2003",
         "company": "In this period I work with customer service and marketing in three different companies",
         "job": "Personal expedition of visiting customers and telephone calls, order expeditions, accounting, IT support for end users",
-        "quote": "'Pia has a talent for talking to customers, she is well-spoken, and she is good at etting a start on assignments'"
+        "quote": "'Pia has a talent for talking to customers, she is well-spoken, and she is good at getting a start on assignments'"
     },
     {
-        "id": "08",
+        "id": "07",
         "year": "2002",
-        "job": "Primary School for Jewelers",
+        "job": "Primary training for Jewelers",
         "company": "Guldsmedeskolen, Cph."
     },
     {
-        "id": "09",
+        "id": "08",
         "year": "1996",
         "job": "Single Course Student education in math/english/spanish",
         "company": "Frederiksberg Studenterkursus"
     },
     {
-        "id": "10",
+        "id": "09",
         "year": "1993-94",
         "job": "High School student at Cleveland Heights High in Ohio",
         "company": "On exchange in the US"
     }
-
-
 ]
